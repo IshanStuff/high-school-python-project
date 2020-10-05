@@ -1,2 +1,2 @@
-# high-school-python-project
-Built a basic Apple Store for our 12th grade project with some help from my friends.
+# High-school-python-project
+Built a basic Apple Store for our 12th grade project with some help from my friends. The back-end is built using SQL.
