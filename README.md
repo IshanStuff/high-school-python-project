@@ -3,7 +3,7 @@ Built a basic Apple Store for our 12th grade project with some help from my frie
 # Front-end
 Buy.py
 # Back-end
-DeleteBillData.py
-DeleteCinfo.py
-StoreProducts.py
+DeleteBillData.py,
+ DeleteCinfo.py,
+ StoreProducts.py,
 
